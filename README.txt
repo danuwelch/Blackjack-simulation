@@ -1,6 +1,4 @@
-This project was to create the game of blackjack. However, you can't play it at all. The program is a simulation, so the user enters in a couple 
-parameters they want to change about the game and then the program will run a number of hands that you select. Once the program is done running
-it will give output statistics about the player's win percentage.
+This project was to create the game of blackjack. However, you can't play it at all. The program is a simulation, so the user enters in a couple parameters they want to change about the game and then the program will run a number of hands that you select. Once the program is done running it will give output statistics about the player's win percentage.
 
 
 This file includes a couple different files. Listed below are the descriptions and instructions:
